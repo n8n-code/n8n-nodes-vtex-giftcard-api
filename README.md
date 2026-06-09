@@ -55,8 +55,8 @@ That's it. No configuration files. No code. It just works.
 
 | Resource | Operations |
 |----------|------------|
-| Gift Card | POST Create GiftCard, POST Get GiftCard using JSON, GET Get GiftCard by ID |
-| Transaction | GET Get GiftCard Transactions, POST Create GiftCard Transaction, GET Get GiftCard Transaction by ID, GET Get Transaction Authorizations, GET Get Transaction Cancellations, POST Cancel GiftCard Transaction, GET Get Transaction Settlements, POST Settle GiftCard Transaction |
+| Gift Card | Post create giftcard, Post get giftcard using json, Get giftcard by id |
+| Transaction | Get giftcard transactions, Post create giftcard transaction, Get giftcard transaction by id, Get transaction authorizations, Get transaction cancellations, Post cancel giftcard transaction, Get transaction settlements, Post settle giftcard transaction |
 
 ---
 
